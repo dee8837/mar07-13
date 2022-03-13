@@ -1,0 +1,31 @@
+.container1 > img{
+    width: 150px;
+    height: 150px;
+}
+body {
+    margin: 0px;
+}
+
+img:hover{
+    cursor: pointer;
+}
+.hidden_image {
+    display: none;
+    
+}
+.initial{
+    display: initial;
+}
+.d-none{
+    display: none;
+}
+.hidden_image > img{
+    width: 500px;
+    height: 500px;
+}
+#cross {
+    position: relative;
+    top: -500px;
+    right: 0px;
+    left: -100px;
+}

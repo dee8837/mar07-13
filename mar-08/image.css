@@ -1,0 +1,14 @@
+img{
+  width: 200px;px;
+  cursor: pointer;
+}
+.d-none{
+  display: none;
+}
+#zoom > img{
+  width:100vw;
+  height:100vh;
+}
+#zoom{
+  diplay:none;
+}
